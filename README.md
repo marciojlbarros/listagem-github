@@ -66,9 +66,6 @@ Ex: nomedosuario
 
 > Lembre-se! Náo funciona copiando a url completo do usuario.
 
-## Contribuição
-Deseja enviar correções de alguma tradução? Só efetuar um pull-request deste repositório e efetuar a alteração dentro de uma nova branch (que não seja a `master`).<br />
-
 Qualquer dúvida entre em contat: [marciojlbarros@gmail.com](marciojlbarros@gmail.com).<br />
 
 [@marciojlbarros](https://github.com/marciojlbarros)
